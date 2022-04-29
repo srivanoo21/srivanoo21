@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @srivanoo21
+- 👀 I’m interested in learning new technologies and relates stuff
+- 🌱 I’m currently working on various projects on Machine Learning and Deep Learning
+- 💞️ I’m looking to collaborate on object detection projects
+- 📫 You can reach me @: srivanoo21@gmail.com
