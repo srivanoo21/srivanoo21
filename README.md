@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @srivanoo21
-- 👀 I’m interested in learning new technologies and relates stuff
+- 👋 Hi, I’m @srivanoo21 and currently working as a Senior Data Scientist
+- 👀 I’m interested in learning new technologies and implementing them in my upcoming projects
 - 🌱 I’m currently working on various projects on Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on object detection projects
 - 📫 You can reach me @: srivanoo21@gmail.com
