@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @srivanoo21 and currently working as a Senior Data Scientist
-- 👀 I’m interested in learning new technologies and implementing them in my upcoming projects
-- 🌱 I’m currently working on various projects on Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate on object detection projects
-- 📫 You can reach me @: srivanoo21@gmail.com
 
 <p align="center">
   <em>
-    Hello, I am Ovindu Wijethunge a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of Moratuwa</b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
+    Hello, I am Anoop Srivastava a <b>Data Science and Analytics Professional</b> <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
@@ -18,9 +13,13 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
-✔ I’m currently learning about **deep learning**🥰<br>
+✔ 👋 Hi, I’m @srivanoo21 and currently working as a Senior Data Scientist
+✔ 👀 I’m interested in learning new technologies and implementing them in my upcoming projects
+✔ 🌱 I’m currently working on various projects on Machine Learning and Deep Learning
+✔ 💞️ I’m looking to collaborate on object detection projects
+✔ 📫 You can reach me @: <b>srivanoo21@gmail.com</b>
+✔ I’m currently working on a single package which can be used for <b>object detection / segmenation </b> using various models
+✔ I’m currently learning throughly on **deep learning**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
