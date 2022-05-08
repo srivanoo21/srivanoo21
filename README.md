@@ -13,15 +13,15 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ 👋 Hi, I’m @srivanoo21 and currently working as a Senior Data Scientist
-✔ 👀 I’m interested in learning new technologies and implementing them in my upcoming projects
-✔ 🌱 I’m currently working on various projects on Machine Learning and Deep Learning
-✔ 💞️ I’m looking to collaborate on object detection projects
-✔ 📫 You can reach me @: <b>srivanoo21@gmail.com</b>
-✔ I’m currently working on a single package which can be used for <b>object detection / segmenation </b> using various models
-✔ I’m currently learning throughly on **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ 👋 Hi, I’m @srivanoo21 and currently working as a Senior Data Scientist <br />
+✔ 👀 I’m interested in learning new technologies and implementing them in my upcoming projects <br />
+✔ 🌱 I’m currently working on various projects on Machine Learning and Deep Learning <br />
+✔ 💞️ I’m looking to collaborate on object detection projects <br />
+✔ 📫 You can reach me @: <b>srivanoo21@gmail.com</b> <br />
+✔ I’m currently working on a single package which can be used for <b>object detection / segmenation </b> using various models <br />
+✔ I’m currently learning throughly on **deep learning**🥰<br />
+✔ I’m looking to collaborate with any **Open - Source data science projects**<br />
+✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br />
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
 
