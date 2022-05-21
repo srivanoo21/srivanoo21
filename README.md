@@ -18,7 +18,7 @@
 ✔ 🌱 I’m currently working on various projects on Machine Learning and Deep Learning <br />
 ✔ 💞️ I’m looking to collaborate on object detection projects <br />
 ✔ 📫 You can reach me @: <b>srivanoo21@gmail.com</b> <br />
-✔ I’m currently working on a single package which can be used for <b>object detection / segmenation </b> using various models <br />
+✔ I’m currently working on a single package which can be used for <b>object detection / segmentation </b> using various models <br />
 ✔ I’m currently learning throughly on **deep learning**🥰<br />
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br />
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br />
