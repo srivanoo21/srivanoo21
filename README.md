@@ -1,7 +1,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Anoop Srivastava a <b>Data Science and Analytics Professional</b> <br>
+    Hello, I am Anoop Srivastava a <b>Data Science and Machine Learning Professional</b> <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
@@ -16,7 +16,7 @@
 ✔ 👋 Hi, I’m @srivanoo21 and currently working as a Senior Data Scientist <br />
 ✔ 👀 I’m interested in learning new technologies and implementing them in my upcoming projects <br />
 ✔ 🌱 I’m currently working on various projects on Machine Learning and Deep Learning <br />
-✔ 💞️ I’m looking to collaborate on object detection projects <br />
+✔ 💞️ I’m looking to collaborate on OpenAI projects <br />
 ✔ 📫 You can reach me @: <b>srivanoo21@gmail.com</b> <br />
 
 ✔ I’m currently learning throughly on **OpenAI**🥰<br />
