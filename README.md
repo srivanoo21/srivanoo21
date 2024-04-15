@@ -15,13 +15,13 @@
 
 ✔ 👋 Hi, I’m @srivanoo21 and currently working as a Senior Data Scientist <br />
 ✔ 👀 I’m interested in learning new technologies and implementing them in my upcoming projects <br />
-✔ 🌱 I’m currently working on various projects on Machine Learning and Deep Learning <br />
-✔ 💞️ I’m looking to collaborate on OpenAI projects <br />
+✔ 🌱 I’m currently working on various projects related to Gen AI and automation <br />
+✔ 💞️ I’m looking to collaborate on OpenAI and other open source projects <br />
 ✔ 📫 You can reach me @: <b>srivanoo21@gmail.com</b> <br />
 
-✔ I’m currently learning throughly on **OpenAI**🥰<br />
+✔ I’m currently researching throughly on **various automation projects using open source LLM's**🥰<br />
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br />
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br />
+✔ Ask from me anything you want 😉<br />
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
 
