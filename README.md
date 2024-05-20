@@ -1,7 +1,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Anoop Srivastava a <b>Data Scientist and Gen AI specialist</b> <br>
+    Hello, I am Anoop Srivastava a <b>Lead Data Scientist and Gen AI specialist</b> <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Gen AI Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
@@ -13,7 +13,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ 👋 Hi, I’m @srivanoo21 and currently working as a Senior Data Scientist <br />
+✔ 👋 Hi, I’m @srivanoo21 and currently working as a Lead Data Scientist <br />
 ✔ 👀 I’m interested in learning new technologies and implementing them in my upcoming projects <br />
 ✔ 🌱 I’m currently working on various projects related to Gen AI and automation <br />
 ✔ 💞️ I’m looking to collaborate on OpenAI and other open source projects <br />
