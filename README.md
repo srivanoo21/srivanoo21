@@ -13,7 +13,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ 👋 Hi, I’m @srivanoo21 and currently working as a Lead Data Scientist <br />
+✔ 👋 Hi, I’m @srivanoo21 and currently working as a Lead Data Scientist and GenAI specialist<br />
 ✔ 👀 I’m interested in learning new technologies and implementing them in my upcoming projects <br />
 ✔ 🌱 I’m currently working on various projects related to Gen AI and automation <br />
 ✔ 💞️ I’m looking to collaborate on OpenAI and other open source projects <br />
